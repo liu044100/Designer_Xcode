@@ -13,6 +13,8 @@
 
 [**Lesson 5. Autolayoutについて**](Lesson_5/README.md)
 
+[**Lesson 6. Learn Sketch**](Lesson_6/README.md)
+
 ## Contributions
 
 * Warmly welcome to submit a pull request.
